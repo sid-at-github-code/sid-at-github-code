@@ -1,94 +1,98 @@
-<h1 align="center">
-  ⚡ Sid | Full Stack Dev ⚙️ AI Agenteer 🧠 Automation Hacker
-</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&pause=200&color=43F700&background=000000&multiline=true&width=435&height=65&lines=Hey%2C+I+am+Sid+;Let's+create+something+Awesome+" alt="Typing SVG" />
-  </a>
-</p>
 
-<div align="center">
+```markdown
+<table>
+<tr>
+<td valign="top">
 
-🛠️ <strong>I build</strong>
+### ⚡ Sid | Full Stack Dev ⚙️ AI Agenteer 🧠 Automation Hacker
 
-🔌 Fast APIs with Flask/FastAPI  
-⚙️ LLM-powered automation tools  
-🧠 LangChain agents that actually work  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=200&color=43F700&background=000000&multiline=true&width=435&height=65&lines=Hey%2C+I+am+Sid+;Let's+create+something+Awesome+)](https://git.io/typing-svg)
+
+🛠️ **I build**
+
+🔌 Fast APIs with Flask/FastAPI
+<br>
+⚙️ LLM-powered automation tools
+<br>
+🧠 LangChain agents that actually work
+<br>
 🧱 React UIs with just the right amount of sass
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" width="40%" align="right" alt="Programming Illustration" />
+---
+
+📡 **I mainly speak :** Python • JavaScript
+
+</td>
+<td valign="top" align="right">
+<img src="https://raw.githubusercontent.com/user-attachments/assets/c665e771-3315-46f9-8d48-18e3a2469956/Programming-pana.svg" alt="Programming illustration" width="400"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📡 I mainly speak :  
-🟢 Python • 🟨 JavaScript
+## 🛠️ Tech Stack
 
----
+### 🚀 Full-Stack Development
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
+  <a href="https://jwt.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
+  <a href="https://gunicorn.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"></a>
+</p>
 
-## 🚀 Tech Stack
+***
 
-### 🧩 Full Stack & Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next JS](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)  
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)  
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat)
+### 🗄️ Backend & Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"></a>
+  <a href="https://socket.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"></a>
+</p>
 
----
+***
 
-### 🧠 AI & LangChain  
-![LangChain](https://img.shields.io/badge/-LangChain-FFCC00?style=flat&logo=langchain&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
+### 🧠 AI & Data Science
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"></a>
+</p>
 
----
+***
 
-### 🔧 Backend, APIs & Databases  
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?logo=gunicorn&logoColor=white&style=flat)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)  
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-
----
-
-### ☁️ Hosting & DevOps  
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)  
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
-![Glitch](https://img.shields.io/badge/-Glitch-3333FF?logo=glitch&logoColor=white&style=flat)  
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
-
----
-
-### 🧪 Other Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat)  
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)  
-![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown&logoColor=white&style=flat)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)  
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
-
-</div>
+### ⚙️ Other Tools & Technologies
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
+</p>
+```
