@@ -25,9 +25,11 @@
 ---
 
 </td>
-    <td align="center">
- <img src="https://raw.githubusercontent.com/sid-at-github-code/sid-at-github-code/output/pacman-contribution-graph.svg" width="300" />
+   <td>
+      <img src="./vid.gif" alt="Demo" width="300" />
     </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sid-at-github-code/sid-at-github-code/output/pacman-contribution-graph.svg" width="300" />
     </td>
 </tr>
 </table>
