@@ -99,3 +99,15 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
 </p>
+
+###
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sid-at-github-code/sid-at-github-code/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sid-at-github-code/sid-at-github-code/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sid-at-github-code/sid-at-github-code/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+###
