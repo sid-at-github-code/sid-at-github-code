@@ -22,10 +22,18 @@
 ---
 
 📡 **I mainly speak :** Python and JavaScript
+---
 
 </td>
     <td align="center">
-      <img src="./vid.gif" alt="Demo Video" width="300" />
+      <img 
+      src="./vid.gif" 
+      alt="Demo Video" 
+      width="100%" 
+      style="display: block; margin: auto; transform: scale(1.05); transition: transform 0.3s ease-in-out;" 
+      onmouseover="this.style.transform='scale(1.2)'" 
+      onmouseout="this.style.transform='scale(1.05)'" 
+       />
     </td>
 </tr>
 </table>
@@ -110,4 +118,4 @@
 </picture>
 
 </div>
-###
+
