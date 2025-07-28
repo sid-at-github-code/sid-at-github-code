@@ -25,7 +25,7 @@
 
 </td>
 <td valign="top" align="right">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/c665e771-3315-46f9-8d48-18e3a2469956/Programming-pana.svg" alt="Programming illustration" width="400"/>
+<img src="Programming-pana.svg" width="40%" align="right" alt="Programming Illustration" />
 </td>
 </tr>
 </table>
