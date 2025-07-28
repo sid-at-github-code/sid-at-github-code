@@ -11,21 +11,21 @@
 
 🛠️ **I build**
 
-🔌 Fast APIs with Flask/FastAPI
+🔌 Bckend APIs with Flask/FastAPI with REST concepts along wiht GraphQL architectures
 <br>
-⚙️ LLM-powered automation tools
+⚙️ LLM-powered automation tools and MCP stuff
 <br>
-🧠 LangChain agents that actually work
+🧠 LangChain agents and chatbots with RAG 
 <br>
-🧱 React UIs with just the right amount of sass
+🧱 React UIs and Next.js sites with just the right amount of sass
 
 ---
 
-📡 **I mainly speak :** Python • JavaScript
+📡 **I mainly speak :** Python and JavaScript
 
 </td>
 <td valign="top" align="right">
-<img src="one.svg" width="40%" align="right" alt="Programming Illustration" />
+<img src="one.svg" width="100%" align="center" alt="Programming Illustration" />
 </td>
 </tr>
 </table>
