@@ -5,13 +5,13 @@
 <tr>
 <td valign="top">
 
-### ⚡ Sid | Full Stack Dev ⚙️ AI Agenteer 🧠 Automation Hacker
+### ⚡ Sid | Full Stack Dev ⚙️ AI Agenteer 🧠 Automation Hacker 👾 Microservices Wizard
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=200&color=43F700&background=000000&multiline=true&width=435&height=65&lines=Hey%2C+I+am+Sid+;Let's+create+something+Awesome+)](https://git.io/typing-svg)
 
 🛠️ **I build**
 
-🔌 Bckend APIs with Flask/FastAPI with REST concepts along wiht GraphQL architectures
+🔌 Backend APIs with Flask/FastAPI with REST concepts along with GraphQL architectures.
 <br>
 ⚙️ LLM-powered automation tools and MCP stuff
 <br>
@@ -24,9 +24,9 @@
 📡 **I mainly speak :** Python and JavaScript
 
 </td>
-<td valign="top" align="right">
-<img src="one.svg" width="100%" align="center" alt="Programming Illustration" />
-</td>
+    <td align="center">
+      <img src="./vid.gif" alt="Demo Video" width="300" />
+    </td>
 </tr>
 </table>
 
